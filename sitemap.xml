@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lmchoi.github.io/categories/</loc>
+    <loc>https://lmchoi.github.io/posts/first/</loc>
+    <lastmod>2019-11-06T19:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmchoi.github.io/</loc>
+    <lastmod>2019-11-06T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmchoi.github.io/posts/</loc>
+    <lastmod>2019-11-06T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmchoi.github.io/categories/</loc>
   </url>
   
   <url>
